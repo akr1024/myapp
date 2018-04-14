@@ -78,3 +78,8 @@ button {
   color:red;
   font-size:14px;
 }
+
+label:after{
+  content:"*";
+  color:red;
+}
